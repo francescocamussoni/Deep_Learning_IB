@@ -1,3 +1,14 @@
+"""
+date: 6-11-2020
+File: excercises.py
+Author : Francesco Camussoni
+Email: camussonif@gmail.com francesco.camussoni@ib.edu.ar
+GitHub: https://github.com/francescocamussoni
+GitLab: https://gitlab.com/francescocamussoni
+Description:
+"""
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
