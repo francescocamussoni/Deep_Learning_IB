@@ -1,3 +1,14 @@
+"""
+date: 11-11-2020
+File: excercises.py
+Author : Francesco Camussoni
+Email: camussonif@gmail.com francesco.camussoni@ib.edu.ar
+GitHub: https://github.com/francescocamussoni
+GitLab: https://gitlab.com/francescocamussoni
+Description:
+"""
+
+
 # https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 # https://mc.ai/understanding-input-and-output-shape-in-lstm-keras/
 
