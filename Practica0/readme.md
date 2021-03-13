@@ -1,1 +1,1 @@
-Excercises from practice work 0
+Excercises from practice work 0: introduction to Python
